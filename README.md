@@ -6,7 +6,7 @@
 |------|----------|----------|----------|------|
 | 1    | [Computers & Security](http://www.journals.elsevier.com/computers-and-security/) | 1.031 | 4-9| 难+正规|
 | 2    |[Computer Networks](http://www.journals.elsevier.com/computer-networks) |  1.256  | 6-12| 难+正规 |
-| 3    |          |          |          |      |
+| 3    |[Security & Privacy, IEEE](http://www.computer.org/web/computingnow/securityandprivacy) | 0.731 |     |      |
 | 4    |          |          |          |      |
 | 5    |          |          |          |      |
 | 6    |          |          |          |      |
