@@ -13,3 +13,9 @@
 | 7    |          |          |          |      |
 | 8    |          |          |          |      |
 | 9    |          |          |          |      |
+
+
+# 最近安全会议
+
++ [IEEE Cipher's Calendar of Security and Privacy Related Events](http://www.ieee-security.org/Calendar/cipher-hypercalendar.html);
++ [WikiCFP](http://wikicfp.com/cfp/call?conference=security&skip=1);
