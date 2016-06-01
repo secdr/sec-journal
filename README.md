@@ -16,7 +16,7 @@
 
 EI期刊收集
 
-+ [Journal of Computer Virology and Hacking Techniques](http://www.springer.com/computer/journal/11416)
++ [Journal of Computer Virology and Hacking Techniques](http://www.springer.com/computer/journal/11416) 审稿快2-3
 
 
 
