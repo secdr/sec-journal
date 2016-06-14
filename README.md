@@ -15,6 +15,7 @@
 + [IEEE Security & Privacy](https://www.computer.org/web/computingnow/securityandprivacy) 0.731 难
 + [Computer Standards & Interfaces](http://www.journals.elsevier.com/computer-standards-and-interfaces) 0.879
 + [Designs, Codes and Cryptography](http://link.springer.com/journal/10623) 0.985
++ [Journal of Network and Computer Applications](http://www.journals.elsevier.com/journal-of-network-and-computer-applications) 2.229
 
 EI期刊收集
 
