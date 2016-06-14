@@ -14,6 +14,7 @@
 + [Security and Communication Networks](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-0122) 0.72
 + [IEEE Security & Privacy](https://www.computer.org/web/computingnow/securityandprivacy) 0.731 难
 + [Computer Standards & Interfaces](http://www.journals.elsevier.com/computer-standards-and-interfaces) 0.879
++ [Designs, Codes and Cryptography](http://link.springer.com/journal/10623) 0.985
 
 EI期刊收集
 
