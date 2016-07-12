@@ -16,6 +16,7 @@
 + [Computer Standards & Interfaces](http://www.journals.elsevier.com/computer-standards-and-interfaces) 0.879
 + [Designs, Codes and Cryptography](http://link.springer.com/journal/10623) 0.985
 + [Journal of Network and Computer Applications](http://www.journals.elsevier.com/journal-of-network-and-computer-applications) 2.229
++ [International Journal of Information Security](http://link.springer.com/journal/10207) 1.279
 
 EI期刊收集
 
