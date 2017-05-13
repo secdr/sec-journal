@@ -7,6 +7,7 @@
 + [Security & Privacy, IEEE](http://www.computer.org/web/computingnow/securityandprivacy)  0.731 
 + [IEEE Transactions on Dependable and Secure Computing (TDSC)](https://www.computer.org/web/tdsc)  1.35
 + [IEEE Transactions on Information Forensics and Security (TIFS)](http://cis.ieee.org/ieee-transactions-on-information-forensics-and-security.html)  2.4  难
++ [International Journal of Critical Infrastructure Protection](https://www.journals.elsevier.com/international-journal-of-critical-infrastructure-protection) 1.351
 + [ACM Transcations on Information and System Security](http://tops.acm.org/) 0.69
 + [Journal of cryptology](http://link.springer.com/journal/145)  1.02
 + [Design Code And Cryptography](http://link.springer.com/journal/10623)   0.958
